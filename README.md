@@ -16,7 +16,7 @@ Python Modules in use:
 - Python smtplib to send emails
 
 Use function:
-- All you need to do is add the n DOB and email address in the CSV file.
+- All you need to do is add the DOB and email address in the CSV file.
   Ex. Test,test@yahoo.com,1961,1,22
  - This app will replace the names from template letters and send random birthday wishes using the email address and month, day
  
