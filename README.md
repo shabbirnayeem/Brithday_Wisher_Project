@@ -24,7 +24,7 @@ Use function:
  Caution:
   - To use python smtplib you will need to allow python code to log into your account
   - For gmail, you will need to allow less secure apps to log into Gmail, this is not recommended
-  - This is done only for lap purposes and used test Gmail accounts
+  - This is done only for lab purposes and used test Gmail accounts
  
  smtplib how to:
  - What is smtplib?
